@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Auto generate
+/lib/src/rust
+/rust/src/frb_generated.rs
